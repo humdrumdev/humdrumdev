@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @humdrumdev and that stands for boring development.
+- 🌱 I’m currently learning a bunch of stuff. I'll let you know when I want to contribute.
