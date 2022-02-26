@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently studying at [1337 42Network](https://42.fr/en/homepage/)
 
-- 🌱 I’m currently learning **Reactjs, Deep Learning**
-
-- 👯 I’m looking to collaborate on **different technologies**
+- 🌱 I’m currently learning **Data Analytics, Machine Learning and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [www.wait.com](www.wait.com)
 
