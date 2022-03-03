@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Data Analytics, Machine Learning and Deep Learning**
 
-- 👨‍💻 All of my projects are available at [www.wait.com](www.wait.com)
+- 👨‍💻 All of my projects are available at [https://boringdev.me/portfolio](https://boringdev.me/portfolio)
 
-- 📝 I regularly write articles on [www.wait.com](www.wait.com)
+- 📝 I regularly write articles on [https://boringdev.me/blog](https://boringdev.me/blog)
 
-- 📫 How to reach me **thehumdrumdev@gmail.com**
+- 📫 How to reach me **contact@boringdev.me**
 
-- 📄 Know about my experiences [www.wait.com](www.wait.com)
+- 📄 Know about my experiences [https://boringdev.me](https://boringdev.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
