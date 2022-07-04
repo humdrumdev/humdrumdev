@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm the boring dev</h1>
-<h3 align="center">A junior software architect</h3>
+<h3 align="center">A mid-level software architect</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humdrumdev" alt="humdrumdev" /></a> </p>
 
