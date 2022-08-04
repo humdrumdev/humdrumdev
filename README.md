@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm the boring dev</h1>
-<h3 align="center">A mid-level software architect</h3>
+<h3 align="center">A Full-stack developer & IT Consultant</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humdrumdev" alt="humdrumdev" /></a> </p>
 
-- 🔭 I’m currently studying at [1337 42Network](https://42.fr/en/homepage/)
 
-- 🌱 I’m currently learning **Data Analytics, Machine Learning and Deep Learning**
+- 🌱 I’m currently learning **Nest.js, Machine Learning and Deep Learning**
 
 - 👨‍💻 You can find my portfolio at [https://boringdev.me/](https://boringdev.me/)
 
