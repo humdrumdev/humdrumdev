@@ -4,10 +4,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humdrumdev" alt="humdrumdev" /></a> </p>
 
 
-- 🌱 I’m currently learning **Nest.js, Machine Learning and Deep Learning**
-
-- 👨‍💻 You can find my portfolio at [https://boringdev.me/](https://boringdev.me/)
-
 - 📫 How to reach me **contact@boringdev.me**
 
 
